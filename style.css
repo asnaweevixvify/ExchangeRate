@@ -27,29 +27,30 @@
     font-family: 'Kanit';
 }
 .type1{
-    font-size: 20px;
+    font-size: 30px;
     height: 40px;
     border: 1px solid black ;
     font-family: 'Kanit';
+    text-align: center;
+    width: 200px;
 }
 .mid{
     display: flex;
-    justify-content: center;
     align-items: center;
     margin-top: 30px;
-    justify-content:space-evenly;
 }
 .h2{
     font-family: 'Kanit';
     font-weight:500;
+    margin-left: 540px;
 }
 .button{
     width: 90px;
     height: 40px;
     font-family: 'Kanit';
-    color: white;
+    color:black;
     background-color: darkorange;
-    margin-left: -20px;
+    margin-left: 545px;
 }
 .set-2{
     display: flex;
@@ -65,8 +66,10 @@
     font-family: 'Kanit';
 }
 .type2{
-    font-size: 20px;
+    font-size: 30px;
     height: 40px;
     border: 1px solid black ;
     font-family: 'Kanit';
+    text-align: center;
+    width: 200px;
 }
